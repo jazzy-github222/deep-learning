@@ -1,4 +1,4 @@
-# Success Prediction Tool
+# Success Prediction Tool 📈
 
 ## Introduction 👩‍💻
 Welcome! My name is Jazzy the Creator of this code! 
