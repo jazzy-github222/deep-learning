@@ -10,9 +10,6 @@ This cutting-edge solution will analyze past funding data, applicant profiles, a
 
 Think of it as a strategic roadmap to success. By investing in the most promising ventures, Alphabet Soup can propel a wave of impactful solutions that shape a brighter tomorrow.
 
-## Analysis 🔍
-
-
 ## Happy Coding 🎉
 ![i1](https://images.unsplash.com/photo-1485796826113-174aa68fd81b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8MHwwfHx8Mg%3D%3D)
 ![i2](https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8MHwwfHx8Mg%3D%3D)
